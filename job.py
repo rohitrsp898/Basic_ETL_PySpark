@@ -1,4 +1,4 @@
-# IMported required libraries and modules
+# Import required libraries and modules
 from pyspark.sql import SparkSession
 from metadata.constant import CITY_COL_DICT, COUNTRY_LANGUAGE_COL_DICT, COUNTRY_COL_DICT, \
     JOIN_TYPE,JOIN_ON_COLUMNS, SPEC_COLS, spark_inst
